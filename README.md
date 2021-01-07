@@ -2,7 +2,9 @@
 
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=mattbev&count_private=true&hide=issues,contribs&show_icons=true&theme=)](http://mattbeveridge.com)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **mattbev/mattbev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
